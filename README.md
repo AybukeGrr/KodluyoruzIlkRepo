@@ -6,8 +6,8 @@ It is the first repository that I created as part of the "Kodluyoruz" training.
 # Installation
 Öncelikle projeyi clone$layın. 
 
-	$ git clone it:/ithub.com/schacon/grit.git $ git clone https://github.com/AybukeGrr/KodluyoruzIlkRepo
-
+	$ git clone https://github.com/AybukeGrr/KodluyoruzIlkRepo
+	
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Clone programında açınız.
 
